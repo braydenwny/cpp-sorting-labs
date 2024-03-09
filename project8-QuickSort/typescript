@@ -1,0 +1,15 @@
+Script started on Tue 04 May 2021 12:49:07 PM EDT
+]0;fuller11@brahe:~/CSC281/Project8[?1034h[fuller11@brahe Project8]$ make
+make: `main' is up to date.
+]0;fuller11@brahe:~/CSC281/Project8[fuller11@brahe Project8]$ ./main
+QuickSortOne list 1 is sorted
+327,1222,1604,1645,2352,2403,4342,4733,4962,5000,5845,6606,7336,7706,8082,8083,8905,9665,9764,9827,
+Activated quicksort2
+QuickSortTwo list 1 is sorted
+327,1222,1604,1645,2352,2403,4342,4733,4962,5000,5845,6606,7336,7706,8082,8083,8905,9665,9764,9827,
+QuickSortOne list 2 is sorted with 929200 Comparisons and 495463 swaps
+QuickSortTwo list 2 is sorted with 1037088 Comparisons and 251208 swaps
+]0;fuller11@brahe:~/CSC281/Project8[fuller11@brahe Project8]$ exit
+exit
+
+Script done on Tue 04 May 2021 12:49:22 PM EDT
