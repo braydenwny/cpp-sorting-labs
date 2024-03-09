@@ -1,0 +1,18 @@
+Script started on Thu 15 Apr 2021 08:55:00 PM EDT
+]0;fuller11@brahe:~/CSC281/Project6[?1034h[fuller11@brahe Project6]$ make
+make: `main' is up to date.
+]0;fuller11@brahe:~/CSC281/Project6[fuller11@brahe Project6]$ ./main
+Insertion sort list 1 is sorted
+327,1222,1604,1645,2352,2403,4342,4733,4962,5000,5845,6606,7336,7706,8082,8083,8905,9665,9764,9827,
+shell sort complete.
+Shell sort list 1 is sorted
+327,1222,1604,1645,2352,2403,4342,4733,4962,5000,5845,6606,7336,7706,8082,8083,8905,9665,9764,9827,
+Shell sort algo 2 list 1 is sorted
+327,1222,1604,1645,2352,2403,4342,4733,4962,5000,5845,6606,7336,7706,8082,8083,8905,9665,9764,9827,
+Insertion Sort list 2 is sorted with 623782404 Comparisons 
+Shell sort algo 1 list 2 is sorted with 458628766 Comparisons
+Shell Sort Algorithm 2 list is sorted with 622831248 Comparisons 
+]0;fuller11@brahe:~/CSC281/Project6[fuller11@brahe Project6]$ exit
+exit
+
+Script done on Thu 15 Apr 2021 08:55:36 PM EDT
