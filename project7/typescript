@@ -1,0 +1,13 @@
+Script started on Thu 15 Apr 2021 09:29:06 PM EDT
+]0;fuller11@brahe:~/CSC281/Project7[?1034h[fuller11@brahe Project7]$ make
+g++ -c main.c++
+g++ MyRandom.o main.o utilities.o heapSort.o -o main
+]0;fuller11@brahe:~/CSC281/Project7[fuller11@brahe Project7]$ ./main
+Heap sort list 1 is sorted
+1222,1604,1645,2352,2403,4342,4733,4962,5000,5845,6606,7336,7706,8082,8083,8905,9665,9764,9827,16807,
+2099991200, 2099963292are out of order
+List2 isn't sorted.
+]0;fuller11@brahe:~/CSC281/Project7[fuller11@brahe Project7]$ //[K[Kexit
+exit
+
+Script done on Thu 15 Apr 2021 09:29:18 PM EDT
