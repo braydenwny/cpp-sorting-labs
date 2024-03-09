@@ -1,0 +1,15 @@
+Script started on Thu 15 Apr 2021 09:07:37 PM EDT
+]0;fuller11@brahe:~/CSC281/Project5[?1034h[fuller11@brahe Project5]$ make
+g++ -c main.c++
+g++ -c MyRandom.c++
+g++ -c utilities.c++
+g++ -c insertionSort.c++
+g++ MyRandom.o main.o utilities.o insertionSort.o -o main
+]0;fuller11@brahe:~/CSC281/Project5[fuller11@brahe Project5]$ ./main
+List is sorted
+327,1222,1604,1645,2352,2403,4342,4733,4962,5000,5845,6606,7336,7706,8082,8083,8905,9665,9764,9827,
+List is sorted with 623782404 Comparisons
+]0;fuller11@brahe:~/CSC281/Project5[fuller11@brahe Project5]$ exit
+exit
+
+Script done on Thu 15 Apr 2021 09:07:51 PM EDT
